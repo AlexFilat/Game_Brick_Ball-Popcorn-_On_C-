@@ -1,0 +1,5 @@
+﻿  Platform.cpp
+C:\WorkC++\Popcorn_project\Popcorn\Popcorn\Platform.cpp(203,7): warning C4552: '*': result of expression not used
+C:\WorkC++\Popcorn_project\Popcorn\Popcorn\Platform.cpp(204,7): warning C4552: '*': result of expression not used
+C:\WorkC++\Popcorn_project\Popcorn\Popcorn\Platform.cpp(231,14): warning C4101: 'pixel': unreferenced local variable
+  Popcorn.vcxproj -> C:\WorkC++\Popcorn_project\Popcorn\x64\Debug\Popcorn.exe
